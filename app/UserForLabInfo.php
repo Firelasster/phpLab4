@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-
+#User
 use App\Models\UserForLab;
 use App\UserValidator;
 // Класс для вывода информации о Пользователе(id,имя,mail,дата создания класса)
